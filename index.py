@@ -1,3 +1,6 @@
 print("Good")
 print("JS")
 print("python")
+print("python")
+print("python")
+print("python")
