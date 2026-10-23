@@ -3,10 +3,9 @@
 print("Good")
 print("JS")
 print("python")
-print("python"
-      
-    aawd
+print("python")
 
-m = 
+
+m = 3 
 
 print(m)
